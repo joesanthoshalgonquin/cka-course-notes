@@ -1,9 +1,4 @@
 # Section 2
-## Commands
-- kubectl create -f file_name.yaml = Create a pod from yaml file
-- kubectl get pods = Get the number of pods
-- kubectl describe pod pod_name = Show description of the POD
-
 ## Create a POD using YAML
 - metadata fields have to be indented at same level
 - labels can have any key-value pairs while metada there are specific properties
